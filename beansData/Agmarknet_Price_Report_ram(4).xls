@@ -1,0 +1,821 @@
+Min,Max,Modal Price from Karnataka,Bangalore[Beans],Ramanagara from 01-Jan-2020To16-Feb-2020 (Total-37) (Total-37)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">15 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">14 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">13 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">12 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">11 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">10 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">08 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">07 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">06 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">05 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                11
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_10">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_10">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_10">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_10">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_10">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_10">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_10">04 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                12
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_11">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_11">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_11">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_11">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_11">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_11">2600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_11">03 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                13
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_12">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_12">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_12">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_12">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_12">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_12">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_12">01 Feb 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                14
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_13">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_13">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_13">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_13">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_13">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_13">3800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_13">31 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                15
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_14">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_14">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_14">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_14">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_14">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_14">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_14">30 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                16
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_15">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_15">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_15">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_15">3800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_15">4200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_15">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_15">29 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                17
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_16">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_16">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_16">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_16">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_16">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_16">3100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_16">28 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                18
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_17">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_17">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_17">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_17">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_17">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_17">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_17">27 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                19
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_18">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_18">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_18">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_18">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_18">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_18">3500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_18">24 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                20
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_19">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_19">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_19">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_19">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_19">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_19">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_19">23 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                21
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_20">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_20">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_20">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_20">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_20">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_20">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_20">22 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                22
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_21">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_21">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_21">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_21">280</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_21">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_21">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_21">21 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                23
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_22">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_22">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_22">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_22">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_22">3300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_22">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_22">20 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                24
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_23">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_23">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_23">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_23">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_23">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_23">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_23">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_23">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_23">18 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                25
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_24">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_24">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_24">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_24">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_24">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_24">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_24">4800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_24">4400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_24">17 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                26
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_25">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_25">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_25">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_25">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_25">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_25">4900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_25">5100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_25">5000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_25">16 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                27
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_26">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_26">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_26">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_26">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_26">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_26">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_26">6000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_26">5000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_26">14 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                28
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_27">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_27">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_27">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_27">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_27">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_27">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_27">4000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_27">3600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_27">13 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                29
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_28">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_28">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_28">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_28">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_28">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_28">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_28">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_28">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_28">10 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                30
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_29">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_29">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_29">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_29">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_29">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_29">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_29">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_29">2900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_29">09 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                31
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_30">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_30">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_30">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_30">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_30">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_30">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_30">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_30">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_30">08 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                32
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_31">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_31">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_31">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_31">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_31">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_31">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_31">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_31">2600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_31">07 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                33
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_32">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_32">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_32">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_32">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_32">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_32">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_32">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_32">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_32">06 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                34
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_33">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_33">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_33">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_33">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_33">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_33">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_33">2600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_33">2300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_33">04 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                35
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_34">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_34">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_34">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_34">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_34">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_34">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_34">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_34">2400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_34">03 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                36
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_35">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_35">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_35">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_35">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_35">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_35">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_35">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_35">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_35">02 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                37
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_36">Bangalore</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_36">Ramanagara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_36">Beans</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_36">Beans (Whole)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_36">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_36">2800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_36">3200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_36">3000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_36">01 Jan 2020</span>
+                                </td>
+		</tr>
+	</table>
+</div>

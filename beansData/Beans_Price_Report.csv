@@ -1,0 +1,1132 @@
+Sl. No.,District,Market,Commodity,Variety,Grade,MinPrice,MaxPrice,ModalPrice,PriceDate
+0,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,15-Feb-20
+1,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,14-Feb-20
+2,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1800,2200,2000,13-Feb-20
+3,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,12-Feb-20
+4,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,11-Feb-20
+5,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,10-Feb-20
+6,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,08-Feb-20
+7,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,07-Feb-20
+8,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,06-Feb-20
+9,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,05-Feb-20
+10,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,04-Feb-20
+11,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,03-Feb-20
+12,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3600,01-Feb-20
+13,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,31-Jan-20
+14,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,30-Jan-20
+15,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3800,4200,4000,29-Jan-20
+16,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3200,3100,28-Jan-20
+17,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,27-Jan-20
+18,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,24-Jan-20
+19,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,23-Jan-20
+20,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,22-Jan-20
+21,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,280,3200,3000,21-Jan-20
+22,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3300,3200,20-Jan-20
+23,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,18-Jan-20
+24,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,17-Jan-20
+25,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4900,5100,5000,16-Jan-20
+26,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,6000,5000,14-Jan-20
+27,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,13-Jan-20
+28,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,10-Jan-20
+29,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3000,2900,09-Jan-20
+30,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,08-Jan-20
+31,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,07-Jan-20
+32,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,06-Jan-20
+33,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2600,2300,04-Jan-20
+34,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,03-Jan-20
+35,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,02-Jan-20
+36,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,01-Jan-20
+37,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,31-Dec-19
+38,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,30-Dec-19
+39,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,28-Dec-19
+40,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,27-Dec-19
+41,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,26-Dec-19
+42,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,24-Dec-19
+43,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4600,23-Dec-19
+44,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4200,21-Dec-19
+45,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,20-Dec-19
+46,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5200,4600,19-Dec-19
+47,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,6000,5000,18-Dec-19
+48,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4600,17-Dec-19
+49,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,6000,5000,16-Dec-19
+50,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5200,4600,14-Dec-19
+51,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4600,13-Dec-19
+52,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4500,12-Dec-19
+53,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Dec-19
+54,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,10-Dec-19
+55,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,09-Dec-19
+56,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,07-Dec-19
+57,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,06-Dec-19
+58,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,05-Dec-19
+59,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,04-Dec-19
+60,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,03-Dec-19
+61,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,02-Dec-19
+62,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,30-Nov-19
+63,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,29-Nov-19
+64,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,28-Nov-19
+65,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,3200,2800,27-Nov-19
+66,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2200,2800,2500,26-Nov-19
+67,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,25-Nov-19
+68,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,23-Nov-19
+69,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,22-Nov-19
+70,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,21-Nov-19
+71,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,20-Nov-19
+72,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,19-Nov-19
+73,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,18-Nov-19
+74,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,16-Nov-19
+75,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,15-Nov-19
+76,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,14-Nov-19
+77,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,13-Nov-19
+78,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,12-Nov-19
+79,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,3000,11-Nov-19
+80,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,09-Nov-19
+81,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,08-Nov-19
+82,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,07-Nov-19
+83,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,06-Nov-19
+84,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,05-Nov-19
+85,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,04-Nov-19
+86,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,02-Nov-19
+87,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,3000,01-Nov-19
+88,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,3000,31-Oct-19
+89,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,30-Oct-19
+90,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,29-Oct-19
+91,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,28-Oct-19
+92,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,26-Oct-19
+93,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,25-Oct-19
+94,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2400,2000,24-Oct-19
+95,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,23-Oct-19
+96,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,22-Oct-19
+97,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,21-Oct-19
+98,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3800,19-Oct-19
+99,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,18-Oct-19
+100,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,17-Oct-19
+101,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,16-Oct-19
+102,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,15-Oct-19
+103,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,14-Oct-19
+104,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,13-Oct-19
+105,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,12-Oct-19
+106,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,11-Oct-19
+107,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,10-Oct-19
+108,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,09-Oct-19
+109,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,05-Oct-19
+110,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,04-Oct-19
+111,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,03-Oct-19
+112,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,02-Oct-19
+113,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,3000,01-Oct-19
+114,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,30-Sep-19
+115,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,28-Sep-19
+116,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,27-Sep-19
+117,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,26-Sep-19
+118,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,25-Sep-19
+119,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,24-Sep-19
+120,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,23-Sep-19
+121,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,21-Sep-19
+122,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,20-Sep-19
+123,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,19-Sep-19
+124,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,18-Sep-19
+125,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,17-Sep-19
+126,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,16-Sep-19
+127,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,14-Sep-19
+128,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,13-Sep-19
+129,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,12-Sep-19
+130,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Sep-19
+131,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3800,10-Sep-19
+132,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,09-Sep-19
+133,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,07-Sep-19
+134,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,06-Sep-19
+135,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,05-Sep-19
+136,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,04-Sep-19
+137,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4200,4000,03-Sep-19
+138,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,31-Aug-19
+139,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,30-Aug-19
+140,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,29-Aug-19
+141,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,28-Aug-19
+142,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,27-Aug-19
+143,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,26-Aug-19
+144,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,24-Aug-19
+145,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,23-Aug-19
+146,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,22-Aug-19
+147,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,21-Aug-19
+148,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,20-Aug-19
+149,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,19-Aug-19
+150,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,17-Aug-19
+151,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,3600,3400,16-Aug-19
+152,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,15-Aug-19
+153,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,14-Aug-19
+154,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,13-Aug-19
+155,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,12-Aug-19
+156,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,10-Aug-19
+157,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,09-Aug-19
+158,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,08-Aug-19
+159,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,07-Aug-19
+160,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,06-Aug-19
+161,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,05-Aug-19
+162,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,03-Aug-19
+163,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,02-Aug-19
+164,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,01-Aug-19
+165,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,31-Jul-19
+166,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,30-Jul-19
+167,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,29-Jul-19
+168,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,27-Jul-19
+169,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,26-Jul-19
+170,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,25-Jul-19
+171,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,24-Jul-19
+172,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,23-Jul-19
+173,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,22-Jul-19
+174,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,20-Jul-19
+175,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,19-Jul-19
+176,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,18-Jul-19
+177,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,17-Jul-19
+178,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,16-Jul-19
+179,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,15-Jul-19
+180,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,26-Jun-19
+181,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,25-Jun-19
+182,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,24-Jun-19
+183,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,22-Jun-19
+184,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,8000,7000,21-Jun-19
+185,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,20-Jun-19
+186,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,7000,6000,19-Jun-19
+187,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,18-Jun-19
+188,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,17-Jun-19
+189,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,7000,6000,15-Jun-19
+190,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,14-Jun-19
+191,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,8000,10000,9000,13-Jun-19
+192,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,8000,10000,9000,12-Jun-19
+193,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,10000,12000,11000,11-Jun-19
+194,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,8000,7000,10-Jun-19
+195,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,08-Jun-19
+196,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,5800,5400,07-Jun-19
+197,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,06-Jun-19
+198,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,05-Jun-19
+199,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,04-Jun-19
+200,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,03-Jun-19
+201,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,7000,6000,02-Jun-19
+202,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,6000,5000,01-Jun-19
+203,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,9000,8000,31-May-19
+204,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,9000,10000,9500,30-May-19
+205,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,10000,12000,11000,29-May-19
+206,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,8000,8600,8300,28-May-19
+207,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,27-May-19
+208,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,25-May-19
+209,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,8000,7000,24-May-19
+210,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,23-May-19
+211,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,22-May-19
+212,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,21-May-19
+213,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,20-May-19
+214,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,18-May-19
+215,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,17-May-19
+216,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,16-May-19
+217,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,15-May-19
+218,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,14-May-19
+219,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,8000,7000,13-May-19
+220,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,11-May-19
+221,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,10-May-19
+222,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,09-May-19
+223,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,8000,7000,08-May-19
+224,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,9000,8000,07-May-19
+225,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,06-May-19
+226,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,04-May-19
+227,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,03-May-19
+228,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,6800,6400,02-May-19
+229,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,01-May-19
+230,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,30-Apr-19
+231,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,29-Apr-19
+232,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,10000,12000,11000,27-Apr-19
+233,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,26-Apr-19
+234,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,25-Apr-19
+235,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,24-Apr-19
+236,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,23-Apr-19
+237,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,7200,7100,22-Apr-19
+238,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4600,5000,4800,20-Apr-19
+239,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,19-Apr-19
+240,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,17-Apr-19
+241,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,16-Apr-19
+242,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,15-Apr-19
+243,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,13-Apr-19
+244,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,12-Apr-19
+245,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,11-Apr-19
+246,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,10-Apr-19
+247,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,09-Apr-19
+248,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,5200,5100,08-Apr-19
+249,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,06-Apr-19
+250,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,05-Apr-19
+251,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,04-Apr-19
+252,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,03-Apr-19
+253,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,02-Apr-19
+254,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5800,6200,6000,01-Apr-19
+255,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,30-Mar-19
+256,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,29-Mar-19
+257,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,28-Mar-19
+258,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4800,5200,5000,27-Mar-19
+259,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,26-Mar-19
+260,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5500,6000,5750,25-Mar-19
+261,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,6500,6250,23-Mar-19
+262,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,22-Mar-19
+263,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4400,5200,4800,21-Mar-19
+264,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,6400,6200,20-Mar-19
+265,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,19-Mar-19
+266,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,7000,8000,7500,18-Mar-19
+267,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,7000,6500,16-Mar-19
+268,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,15-Mar-19
+269,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,14-Mar-19
+270,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4500,5500,5000,13-Mar-19
+271,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,12-Mar-19
+272,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Mar-19
+273,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,09-Mar-19
+274,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,08-Mar-19
+275,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,07-Mar-19
+276,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,06-Mar-19
+277,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,05-Mar-19
+278,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,04-Mar-19
+279,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,02-Mar-19
+280,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,01-Mar-19
+281,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,28-Feb-19
+282,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3400,3200,27-Feb-19
+283,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,26-Feb-19
+284,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,25-Feb-19
+285,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,3600,3400,23-Feb-19
+286,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,22-Feb-19
+287,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,21-Feb-19
+288,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,3600,3400,20-Feb-19
+289,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,19-Feb-19
+290,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,18-Feb-19
+291,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,16-Feb-19
+292,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,15-Feb-19
+293,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,14-Feb-19
+294,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,13-Feb-19
+295,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,12-Feb-19
+296,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Feb-19
+297,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4800,5200,5000,09-Feb-19
+298,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,08-Feb-19
+299,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,07-Feb-19
+300,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,06-Feb-19
+301,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,05-Feb-19
+302,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,3600,3400,04-Feb-19
+303,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,02-Feb-19
+304,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,01-Feb-19
+305,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,31-Jan-19
+306,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,30-Jan-19
+307,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,29-Jan-19
+308,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,28-Jan-19
+309,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,3600,3400,26-Jan-19
+310,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,25-Jan-19
+311,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,24-Jan-19
+312,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,23-Jan-19
+313,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,22-Jan-19
+314,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,21-Jan-19
+315,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,19-Jan-19
+316,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,18-Jan-19
+317,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,17-Jan-19
+318,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4800,5200,5000,16-Jan-19
+319,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,5400,5200,15-Jan-19
+320,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,14-Jan-19
+321,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,12-Jan-19
+322,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Jan-19
+323,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,10-Jan-19
+324,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,09-Jan-19
+325,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,08-Jan-19
+326,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,07-Jan-19
+327,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,05-Jan-19
+328,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,04-Jan-19
+329,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,03-Jan-19
+330,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,02-Jan-19
+331,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,01-Jan-19
+332,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,31-Dec-18
+333,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,29-Dec-18
+334,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,28-Dec-18
+335,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1400,1800,1600,27-Dec-18
+336,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,26-Dec-18
+337,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,24-Dec-18
+338,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,22-Dec-18
+339,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,21-Dec-18
+340,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,20-Dec-18
+341,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1800,2200,2000,19-Dec-18
+342,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,18-Dec-18
+343,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,17-Dec-18
+344,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,15-Dec-18
+345,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1800,2200,2000,14-Dec-18
+346,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2200,2100,13-Dec-18
+347,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,12-Dec-18
+348,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,11-Dec-18
+349,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,10-Dec-18
+350,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,08-Dec-18
+351,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,07-Dec-18
+352,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,06-Dec-18
+353,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,05-Dec-18
+354,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,04-Dec-18
+355,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,03-Dec-18
+356,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,01-Dec-18
+357,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,30-Nov-18
+358,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,29-Nov-18
+359,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,28-Nov-18
+360,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,27-Nov-18
+361,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,26-Nov-18
+362,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,24-Nov-18
+363,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,23-Nov-18
+364,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,22-Nov-18
+365,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,21-Nov-18
+366,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3200,3100,20-Nov-18
+367,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3800,19-Nov-18
+368,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,6000,5000,17-Nov-18
+369,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5200,4600,16-Nov-18
+370,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,15-Nov-18
+371,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3800,14-Nov-18
+372,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,13-Nov-18
+373,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,12-Nov-18
+374,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,10-Nov-18
+375,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,3600,3400,09-Nov-18
+376,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,08-Nov-18
+377,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,07-Nov-18
+378,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,06-Nov-18
+379,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2200,2100,05-Nov-18
+380,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,03-Nov-18
+381,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,02-Nov-18
+382,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,01-Nov-18
+383,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,31-Oct-18
+384,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,30-Oct-18
+385,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,29-Oct-18
+386,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,27-Oct-18
+387,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,26-Oct-18
+388,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,25-Oct-18
+389,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,24-Oct-18
+390,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,23-Oct-18
+391,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,22-Oct-18
+392,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,20-Oct-18
+393,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,19-Oct-18
+394,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,17-Oct-18
+395,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,16-Oct-18
+396,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,15-Oct-18
+397,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,13-Oct-18
+398,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,12-Oct-18
+399,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Oct-18
+400,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5600,6000,5800,10-Oct-18
+401,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,09-Oct-18
+402,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,08-Oct-18
+403,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,06-Oct-18
+404,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,05-Oct-18
+405,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,04-Oct-18
+406,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,03-Oct-18
+407,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,02-Oct-18
+408,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,01-Oct-18
+409,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,29-Sep-18
+410,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,28-Sep-18
+411,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,27-Sep-18
+412,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,26-Sep-18
+413,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1400,1200,25-Sep-18
+414,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1400,1200,24-Sep-18
+415,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,22-Sep-18
+416,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,800,1200,1000,21-Sep-18
+417,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1400,1200,20-Sep-18
+418,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1200,1100,19-Sep-18
+419,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,800,1200,1000,18-Sep-18
+420,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,800,1200,1000,17-Sep-18
+421,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,800,1200,1000,15-Sep-18
+422,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,14-Sep-18
+423,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,13-Sep-18
+424,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,3200,2600,12-Sep-18
+425,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,11-Sep-18
+426,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,10-Sep-18
+427,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,08-Sep-18
+428,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1400,1200,07-Sep-18
+429,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,06-Sep-18
+430,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,05-Sep-18
+431,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,04-Sep-18
+432,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,03-Sep-18
+433,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,01-Sep-18
+434,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1200,1100,31-Aug-18
+435,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,30-Aug-18
+436,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,29-Aug-18
+437,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,28-Aug-18
+438,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1400,1800,1600,27-Aug-18
+439,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,25-Aug-18
+440,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,24-Aug-18
+441,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,23-Aug-18
+442,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,22-Aug-18
+443,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,21-Aug-18
+444,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,20-Aug-18
+445,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,18-Aug-18
+446,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,17-Aug-18
+447,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2200,2600,2400,16-Aug-18
+448,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,15-Aug-18
+449,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,14-Aug-18
+450,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1800,2200,2000,13-Aug-18
+451,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,11-Aug-18
+452,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,10-Aug-18
+453,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,09-Aug-18
+454,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,08-Aug-18
+455,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2400,2200,07-Aug-18
+456,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2400,2000,06-Aug-18
+457,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,04-Aug-18
+458,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,03-Aug-18
+459,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,02-Aug-18
+460,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,01-Aug-18
+461,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4200,31-Jul-18
+462,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,30-Jul-18
+463,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,28-Jul-18
+464,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,27-Jul-18
+465,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,26-Jul-18
+466,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,25-Jul-18
+467,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,24-Jul-18
+468,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,23-Jul-18
+469,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,21-Jul-18
+470,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,20-Jul-18
+471,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,19-Jul-18
+472,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4000,3800,18-Jul-18
+473,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,17-Jul-18
+474,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,3200,2600,16-Jul-18
+475,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,14-Jul-18
+476,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,13-Jul-18
+477,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,12-Jul-18
+478,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3600,3000,11-Jul-18
+479,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,10-Jul-18
+480,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,09-Jul-18
+481,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,07-Jul-18
+482,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,06-Jul-18
+483,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,05-Jul-18
+484,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,04-Jul-18
+485,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4400,4200,03-Jul-18
+486,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,02-Jul-18
+487,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3600,3000,30-Jun-18
+488,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,29-Jun-18
+489,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,28-Jun-18
+490,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,27-Jun-18
+491,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,26-Jun-18
+492,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,25-Jun-18
+493,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5200,4600,23-Jun-18
+494,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,22-Jun-18
+495,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,21-Jun-18
+496,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,20-Jun-18
+497,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,19-Jun-18
+498,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5200,4600,18-Jun-18
+499,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,16-Jun-18
+500,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,15-Jun-18
+501,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,14-Jun-18
+502,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,4000,3500,13-Jun-18
+503,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3600,3300,12-Jun-18
+504,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,11-Jun-18
+505,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,09-Jun-18
+506,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3600,3300,08-Jun-18
+507,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3000,3600,3300,07-Jun-18
+508,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,06-Jun-18
+509,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,05-Jun-18
+510,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,04-Jun-18
+511,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,02-Jun-18
+512,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,01-Jun-18
+513,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,31-May-18
+514,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,30-May-18
+515,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,29-May-18
+516,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,28-May-18
+517,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,26-May-18
+518,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,25-May-18
+519,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,24-May-18
+520,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4600,5600,5000,23-May-18
+521,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4600,5400,5000,22-May-18
+522,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4200,5000,4600,21-May-18
+523,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,19-May-18
+524,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4200,5000,4600,18-May-18
+525,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4200,5000,4600,17-May-18
+526,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4200,5000,4600,16-May-18
+527,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,15-May-18
+528,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,14-May-18
+529,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,11-May-18
+530,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,6000,6600,6300,10-May-18
+531,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,5000,6000,5500,09-May-18
+532,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,08-May-18
+533,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,07-May-18
+534,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,05-May-18
+535,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,04-May-18
+536,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,03-May-18
+537,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,02-May-18
+538,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,01-May-18
+539,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,30-Apr-18
+540,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,28-Apr-18
+541,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,27-Apr-18
+542,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,26-Apr-18
+543,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,19-Apr-18
+544,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,18-Apr-18
+545,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,17-Apr-18
+546,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,16-Apr-18
+547,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,14-Apr-18
+548,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,13-Apr-18
+549,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,12-Apr-18
+550,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,11-Apr-18
+551,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,10-Apr-18
+552,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,09-Apr-18
+553,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,07-Apr-18
+554,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,06-Apr-18
+555,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,05-Apr-18
+556,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,04-Apr-18
+557,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,03-Apr-18
+558,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,02-Apr-18
+559,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,31-Mar-18
+560,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,30-Mar-18
+561,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,29-Mar-18
+562,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,28-Mar-18
+563,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,5000,4500,27-Mar-18
+564,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,26-Mar-18
+565,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2400,2000,24-Mar-18
+566,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,23-Mar-18
+567,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2400,2000,22-Mar-18
+568,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,2800,2600,21-Mar-18
+569,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,20-Mar-18
+570,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3800,4000,3900,19-Mar-18
+571,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3600,3000,17-Mar-18
+572,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,16-Mar-18
+573,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,15-Mar-18
+574,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,14-Mar-18
+575,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,13-Mar-18
+576,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,12-Mar-18
+577,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,10-Mar-18
+578,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3600,3200,09-Mar-18
+579,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,08-Mar-18
+580,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3600,3000,07-Mar-18
+581,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,06-Mar-18
+582,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,05-Mar-18
+583,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3200,4000,3600,03-Mar-18
+584,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,4000,4800,4400,02-Mar-18
+585,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,3600,4400,4000,01-Mar-18
+586,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,28-Feb-18
+587,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,27-Feb-18
+588,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1800,2400,2000,26-Feb-18
+589,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,24-Feb-18
+590,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2400,2000,23-Feb-18
+591,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2400,2000,22-Feb-18
+592,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,21-Feb-18
+593,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,20-Feb-18
+594,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,19-Feb-18
+595,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1400,1800,1600,17-Feb-18
+596,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,16-Feb-18
+597,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,15-Feb-18
+598,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,14-Feb-18
+599,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,13-Feb-18
+600,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,12-Feb-18
+601,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,10-Feb-18
+602,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,09-Feb-18
+603,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2000,2800,2400,08-Feb-18
+604,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2400,3200,2800,07-Feb-18
+605,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,06-Feb-18
+606,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,2800,3200,3000,05-Feb-18
+607,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,03-Feb-18
+608,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,02-Feb-18
+609,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,01-Feb-18
+610,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,31-Jan-18
+611,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,30-Jan-18
+612,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,29-Jan-18
+613,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,27-Jan-18
+614,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,2000,1600,26-Jan-18
+615,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,25-Jan-18
+616,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,24-Jan-18
+617,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1800,1400,23-Jan-18
+618,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,2000,1600,22-Jan-18
+619,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,800,1400,1100,20-Jan-18
+620,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,19-Jan-18
+621,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,18-Jan-18
+622,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,17-Jan-18
+623,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,16-Jan-18
+624,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,15-Jan-18
+625,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,2000,1500,13-Jan-18
+626,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,2000,1600,12-Jan-18
+627,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,2000,1600,11-Jan-18
+628,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,2000,1600,10-Jan-18
+629,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,09-Jan-18
+630,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1000,1600,1300,08-Jan-18
+631,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,06-Jan-18
+632,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1200,1600,1400,05-Jan-18
+633,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,04-Jan-18
+634,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,03-Jan-18
+635,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,02-Jan-18
+636,Bangalore,Ramanagara,Beans,Beans (Whole),FAQ,1600,2000,1800,01-Jan-18
+0,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,15-Feb-20
+1,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,14-Feb-20
+2,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,13-Feb-20
+3,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,12-Feb-20
+4,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,11-Feb-20
+5,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,10-Feb-20
+6,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,07-Feb-20
+7,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1800,2200,2000,06-Feb-20
+8,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,05-Feb-20
+9,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,04-Feb-20
+10,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,03-Feb-20
+11,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,01-Feb-20
+12,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,2800,31-Jan-20
+13,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3200,3000,30-Jan-20
+14,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,29-Jan-20
+15,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3200,2800,28-Jan-20
+16,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,27-Jan-20
+17,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,24-Jan-20
+18,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,23-Jan-20
+19,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,22-Jan-20
+20,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,21-Jan-20
+21,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,20-Jan-20
+22,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,18-Jan-20
+23,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,17-Jan-20
+24,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,16-Jan-20
+25,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4500,4000,14-Jan-20
+26,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,13-Jan-20
+27,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,10-Jan-20
+28,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,09-Jan-20
+29,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,08-Jan-20
+30,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,07-Jan-20
+31,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,06-Jan-20
+32,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,04-Jan-20
+33,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,03-Jan-20
+34,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,02-Jan-20
+35,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,01-Jan-20
+36,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,31-Dec-19
+37,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,30-Dec-19
+38,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,27-Dec-19
+39,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,26-Dec-19
+40,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,24-Dec-19
+41,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,23-Dec-19
+42,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,21-Dec-19
+43,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,20-Dec-19
+44,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,19-Dec-19
+45,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,18-Dec-19
+46,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3200,17-Dec-19
+47,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,16-Dec-19
+48,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,13-Dec-19
+49,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,12-Dec-19
+50,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,11-Dec-19
+51,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,10-Dec-19
+52,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,09-Dec-19
+53,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,07-Dec-19
+54,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,06-Dec-19
+55,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,05-Dec-19
+56,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3500,2500,04-Dec-19
+57,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,03-Dec-19
+58,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,02-Dec-19
+59,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,30-Nov-19
+60,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,29-Nov-19
+61,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,28-Nov-19
+62,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,27-Nov-19
+63,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,26-Nov-19
+64,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,25-Nov-19
+65,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,22-Nov-19
+66,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3500,2500,21-Nov-19
+67,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,20-Nov-19
+68,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3300,2500,19-Nov-19
+69,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,18-Nov-19
+70,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,16-Nov-19
+71,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,14-Nov-19
+72,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,13-Nov-19
+73,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,12-Nov-19
+74,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,11-Nov-19
+75,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,08-Nov-19
+76,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,07-Nov-19
+77,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,06-Nov-19
+78,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,05-Nov-19
+79,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2800,04-Nov-19
+80,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,02-Nov-19
+81,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3500,2800,31-Oct-19
+82,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,4000,3000,30-Oct-19
+83,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,28-Oct-19
+84,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,25-Oct-19
+85,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,24-Oct-19
+86,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,23-Oct-19
+87,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,22-Oct-19
+88,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,21-Oct-19
+89,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,19-Oct-19
+90,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,18-Oct-19
+91,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,17-Oct-19
+92,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,16-Oct-19
+93,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1500,2000,1800,15-Oct-19
+94,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3400,5000,4000,14-Oct-19
+95,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,11-Oct-19
+96,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,10-Oct-19
+97,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3400,3000,09-Oct-19
+98,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3500,2800,05-Oct-19
+99,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3500,3000,04-Oct-19
+100,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3500,3200,03-Oct-19
+101,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,01-Oct-19
+102,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,30-Sep-19
+103,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,27-Sep-19
+104,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,26-Sep-19
+105,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,25-Sep-19
+106,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2500,24-Sep-19
+107,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,23-Sep-19
+108,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,21-Sep-19
+109,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,20-Sep-19
+110,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,19-Sep-19
+111,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,2800,18-Sep-19
+112,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,17-Sep-19
+113,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,16-Sep-19
+114,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,13-Sep-19
+115,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,12-Sep-19
+116,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,11-Sep-19
+117,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,09-Sep-19
+118,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,07-Sep-19
+119,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,06-Sep-19
+120,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,05-Sep-19
+121,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,04-Sep-19
+122,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,03-Sep-19
+123,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4500,3500,31-Aug-19
+124,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,30-Aug-19
+125,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,29-Aug-19
+126,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,28-Aug-19
+127,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,27-Aug-19
+128,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,26-Aug-19
+129,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,23-Aug-19
+130,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,22-Aug-19
+131,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,21-Aug-19
+132,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,20-Aug-19
+133,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,19-Aug-19
+134,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,17-Aug-19
+135,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,4000,3000,16-Aug-19
+136,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,14-Aug-19
+137,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,13-Aug-19
+138,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,09-Aug-19
+139,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4500,4000,08-Aug-19
+140,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4500,4000,07-Aug-19
+141,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,06-Aug-19
+142,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3500,3000,05-Aug-19
+143,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,03-Aug-19
+144,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,02-Aug-19
+145,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,01-Aug-19
+146,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,31-Jul-19
+147,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,30-Jul-19
+148,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3400,2600,29-Jul-19
+149,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,26-Jul-19
+150,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,25-Jul-19
+151,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,24-Jul-19
+152,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,23-Jul-19
+153,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,22-Jul-19
+154,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,20-Jul-19
+155,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,19-Jul-19
+156,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,18-Jul-19
+157,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,17-Jul-19
+158,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,16-Jul-19
+159,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,15-Jul-19
+160,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,25-Jun-19
+161,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,21-Jun-19
+162,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,20-Jun-19
+163,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,19-Jun-19
+164,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,18-Jun-19
+165,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,17-Jun-19
+166,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,15-Jun-19
+167,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,14-Jun-19
+168,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,13-Jun-19
+169,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,11-Jun-19
+170,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,07-Jun-19
+171,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,7000,06-Jun-19
+172,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6500,04-Jun-19
+173,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6500,03-Jun-19
+174,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,01-Jun-19
+175,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,31-May-19
+176,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,30-May-19
+177,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,5000,29-May-19
+178,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,5000,28-May-19
+179,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,27-May-19
+180,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,25-May-19
+181,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,24-May-19
+182,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,22-May-19
+183,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,20-May-19
+184,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,18-May-19
+185,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,17-May-19
+186,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,16-May-19
+187,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,7000,15-May-19
+188,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6500,14-May-19
+189,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,13-May-19
+190,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6500,10-May-19
+191,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6000,09-May-19
+192,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,7000,08-May-19
+193,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6000,06-May-19
+194,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6000,04-May-19
+195,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,03-May-19
+196,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,02-May-19
+197,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,30-Apr-19
+198,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,29-Apr-19
+199,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,27-Apr-19
+200,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,26-Apr-19
+201,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,25-Apr-19
+202,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,24-Apr-19
+203,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,23-Apr-19
+204,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,22-Apr-19
+205,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,20-Apr-19
+206,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,16-Apr-19
+207,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,15-Apr-19
+208,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,12-Apr-19
+209,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,11-Apr-19
+210,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,10-Apr-19
+211,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,09-Apr-19
+212,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6000,08-Apr-19
+213,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,6000,05-Apr-19
+214,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,04-Apr-19
+215,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,5000,03-Apr-19
+216,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,5000,02-Apr-19
+217,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,01-Apr-19
+218,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,30-Mar-19
+219,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,29-Mar-19
+220,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,28-Mar-19
+221,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,5000,27-Mar-19
+222,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,7000,5000,26-Mar-19
+223,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,25-Mar-19
+224,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,23-Mar-19
+225,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,7000,6000,22-Mar-19
+226,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,7000,21-Mar-19
+227,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,6500,20-Mar-19
+228,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,5000,8000,7000,19-Mar-19
+229,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,6000,8000,7000,18-Mar-19
+230,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,16-Mar-19
+231,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4200,3500,15-Mar-19
+232,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3600,3200,14-Mar-19
+233,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3600,3200,13-Mar-19
+234,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4200,3500,12-Mar-19
+235,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1600,1300,11-Mar-19
+236,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3500,3200,08-Mar-19
+237,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,07-Mar-19
+238,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4500,4000,06-Mar-19
+239,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4400,4000,05-Mar-19
+240,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,4000,3500,02-Mar-19
+241,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3400,01-Mar-19
+242,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,28-Feb-19
+243,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3500,27-Feb-19
+244,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3200,2800,26-Feb-19
+245,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3400,2800,25-Feb-19
+246,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,2800,2400,23-Feb-19
+247,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,22-Feb-19
+248,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3000,2800,21-Feb-19
+249,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,20-Feb-19
+250,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,19-Feb-19
+251,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,18-Feb-19
+252,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,2800,16-Feb-19
+253,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3200,3000,15-Feb-19
+254,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,3000,14-Feb-19
+255,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3400,2800,13-Feb-19
+256,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,12-Feb-19
+257,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,11-Feb-19
+258,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,2800,08-Feb-19
+259,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3000,2800,07-Feb-19
+260,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,2800,06-Feb-19
+261,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3200,2800,05-Feb-19
+262,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3500,3000,04-Feb-19
+263,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,02-Feb-19
+264,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2400,2200,01-Feb-19
+265,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,31-Jan-19
+266,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3000,2900,30-Jan-19
+267,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,2800,29-Jan-19
+268,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3300,3000,28-Jan-19
+269,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2400,25-Jan-19
+270,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,24-Jan-19
+271,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,2600,2400,23-Jan-19
+272,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2500,21-Jan-19
+273,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3400,19-Jan-19
+274,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3400,18-Jan-19
+275,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3600,17-Jan-19
+276,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3400,3000,16-Jan-19
+277,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,4000,3000,14-Jan-19
+278,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3200,11-Jan-19
+279,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,09-Jan-19
+280,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,08-Jan-19
+281,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3200,2800,07-Jan-19
+282,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,05-Jan-19
+283,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2200,1600,03-Jan-19
+284,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,02-Jan-19
+285,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,2000,1600,01-Jan-19
+286,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1500,31-Dec-18
+287,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,29-Dec-18
+288,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,2000,1500,28-Dec-18
+289,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1800,1400,27-Dec-18
+290,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1500,26-Dec-18
+291,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,24-Dec-18
+292,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,22-Dec-18
+293,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,21-Dec-18
+294,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2600,20-Dec-18
+295,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2600,19-Dec-18
+296,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,18-Dec-18
+297,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3000,2800,17-Dec-18
+298,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3200,3000,15-Dec-18
+299,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3200,3000,14-Dec-18
+300,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3200,3000,13-Dec-18
+301,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3200,2800,12-Dec-18
+302,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3200,2800,11-Dec-18
+303,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,07-Dec-18
+304,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,06-Dec-18
+305,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2500,03-Dec-18
+306,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,01-Dec-18
+307,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2500,30-Nov-18
+308,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,2600,2400,28-Nov-18
+309,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2500,27-Nov-18
+310,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2800,24-Nov-18
+311,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,3000,2500,22-Nov-18
+312,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,20-Nov-18
+313,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,19-Nov-18
+314,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,17-Nov-18
+315,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,16-Nov-18
+316,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,15-Nov-18
+317,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2400,13-Nov-18
+318,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,09-Nov-18
+319,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3000,2800,05-Nov-18
+320,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3000,2800,03-Nov-18
+321,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,02-Nov-18
+322,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3200,2800,31-Oct-18
+323,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,30-Oct-18
+324,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,29-Oct-18
+325,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,27-Oct-18
+326,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,26-Oct-18
+327,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,25-Oct-18
+328,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,23-Oct-18
+329,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3500,22-Oct-18
+330,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4200,3800,16-Oct-18
+331,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,15-Oct-18
+332,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,1600,1500,12-Oct-18
+333,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3500,11-Oct-18
+334,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,4000,3000,10-Oct-18
+335,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1800,2500,2000,06-Oct-18
+336,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2400,1800,05-Oct-18
+337,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,3200,1800,04-Oct-18
+338,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2200,1800,03-Oct-18
+339,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2200,1900,01-Oct-18
+340,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,2000,1500,29-Sep-18
+341,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1800,1400,28-Sep-18
+342,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,2000,1500,26-Sep-18
+343,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,25-Sep-18
+344,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,24-Sep-18
+345,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,22-Sep-18
+346,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1500,20-Sep-18
+347,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,2000,1500,19-Sep-18
+348,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,18-Sep-18
+349,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,17-Sep-18
+350,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,14-Sep-18
+351,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2200,2000,11-Sep-18
+352,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2400,2000,07-Sep-18
+353,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2400,2000,06-Sep-18
+354,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2200,1800,05-Sep-18
+355,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,1800,1600,04-Sep-18
+356,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,03-Sep-18
+357,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,31-Aug-18
+358,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1800,2500,2000,30-Aug-18
+359,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2500,2300,29-Aug-18
+360,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3500,2800,28-Aug-18
+361,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2700,27-Aug-18
+362,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,25-Aug-18
+363,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,24-Aug-18
+364,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,23-Aug-18
+365,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3500,3000,21-Aug-18
+366,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3000,2800,20-Aug-18
+367,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,2600,2500,18-Aug-18
+368,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,2600,2400,14-Aug-18
+369,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,09-Aug-18
+370,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,08-Aug-18
+371,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,07-Aug-18
+372,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2300,2600,2400,02-Aug-18
+373,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,2800,2600,01-Aug-18
+374,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2600,30-Jul-18
+375,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,27-Jul-18
+376,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,26-Jul-18
+377,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2100,2400,2300,25-Jul-18
+378,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2400,2200,24-Jul-18
+379,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2500,2300,23-Jul-18
+380,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3400,3000,21-Jul-18
+381,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3500,3000,20-Jul-18
+382,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,19-Jul-18
+383,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,17-Jul-18
+384,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3000,2800,16-Jul-18
+385,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,13-Jul-18
+386,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,12-Jul-18
+387,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,11-Jul-18
+388,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,10-Jul-18
+389,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,09-Jul-18
+390,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,07-Jul-18
+391,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,05-Jul-18
+392,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,03-Jul-18
+393,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,02-Jul-18
+394,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,30-Jun-18
+395,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,29-Jun-18
+396,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,28-Jun-18
+397,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,3500,3200,27-Jun-18
+398,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,26-Jun-18
+399,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4500,22-Jun-18
+400,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4500,21-Jun-18
+401,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,20-Jun-18
+402,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,4000,18-Jun-18
+403,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,5000,3500,15-Jun-18
+404,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,14-Jun-18
+405,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,13-Jun-18
+406,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3400,3000,12-Jun-18
+407,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,200,3500,2800,11-Jun-18
+408,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,08-Jun-18
+409,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,05-Jun-18
+410,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,04-Jun-18
+411,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,02-Jun-18
+412,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3500,01-Jun-18
+413,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,31-May-18
+414,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,4000,3000,30-May-18
+415,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,29-May-18
+416,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,5500,4500,28-May-18
+417,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,6000,4500,26-May-18
+418,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,23-May-18
+419,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,6000,5000,21-May-18
+420,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,4000,5000,4500,14-May-18
+421,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4500,4000,11-May-18
+422,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3500,4500,4000,10-May-18
+423,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,4000,09-May-18
+424,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,08-May-18
+425,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,07-May-18
+426,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,4000,3500,05-May-18
+427,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,02-May-18
+428,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3400,3000,26-Apr-18
+429,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2800,3500,3000,19-Apr-18
+430,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3500,3000,13-Apr-18
+431,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2500,3800,3000,12-Apr-18
+432,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,10-Apr-18
+433,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4000,3500,09-Apr-18
+434,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3500,2800,07-Apr-18
+435,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3500,3000,05-Apr-18
+436,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,3000,4500,3500,28-Mar-18
+437,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,3000,2500,27-Mar-18
+438,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2200,1800,26-Mar-18
+439,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,2000,1500,21-Mar-18
+440,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,20-Mar-18
+441,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1600,1300,17-Mar-18
+442,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2200,1800,16-Mar-18
+443,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,14-Mar-18
+444,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2600,3400,2800,12-Mar-18
+445,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,09-Mar-18
+446,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2500,07-Mar-18
+447,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2200,2800,2600,06-Mar-18
+448,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2800,2400,05-Mar-18
+449,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2400,3200,2800,03-Mar-18
+450,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,02-Mar-18
+451,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,28-Feb-18
+452,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2600,2300,27-Feb-18
+453,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,2000,2500,2300,26-Feb-18
+454,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1800,2400,2000,24-Feb-18
+455,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2200,1800,23-Feb-18
+456,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1500,2000,1800,22-Feb-18
+457,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,21-Feb-18
+458,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,20-Feb-18
+459,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,19-Feb-18
+460,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1500,17-Feb-18
+461,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,1800,1500,16-Feb-18
+462,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1400,15-Feb-18
+463,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,14-Feb-18
+464,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,2000,1800,12-Feb-18
+465,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,1800,1600,09-Feb-18
+466,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,1800,1600,08-Feb-18
+467,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,2000,1800,07-Feb-18
+468,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1400,06-Feb-18
+469,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1600,1300,05-Feb-18
+470,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1400,1200,03-Feb-18
+471,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1500,1300,02-Feb-18
+472,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1500,1300,01-Feb-18
+473,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,2000,1500,31-Jan-18
+474,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,2000,1500,30-Jan-18
+475,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1600,1300,29-Jan-18
+476,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,1800,1500,24-Jan-18
+477,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1200,1100,23-Jan-18
+478,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,800,1200,1000,22-Jan-18
+479,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,800,1200,1000,19-Jan-18
+480,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1400,1200,18-Jan-18
+481,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,1800,1600,17-Jan-18
+482,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,2000,1600,16-Jan-18
+483,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1400,1200,12-Jan-18
+484,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1800,1500,11-Jan-18
+485,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1500,1300,10-Jan-18
+486,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1300,2000,1600,09-Jan-18
+487,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1800,1500,08-Jan-18
+488,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1000,1500,1300,06-Jan-18
+489,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1200,1600,1400,05-Jan-18
+490,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1400,1800,1600,04-Jan-18
+491,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1600,2000,1800,03-Jan-18
+492,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1800,2500,2000,02-Jan-18
+493,Bangalore,"Binny Mill (F&V), Bangalore",Beans,Beans (Whole),FAQ,1800,2500,2200,01-Jan-18
